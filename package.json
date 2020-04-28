@@ -1,6 +1,6 @@
 {
   "name": "custom-datautils",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "自定义方法集合",
   "main": "index.js",
   "scripts": {

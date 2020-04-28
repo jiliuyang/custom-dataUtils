@@ -1,3 +1,4 @@
+var dataUtils = new Object();
 function uuid() {
     var s = [];
     var hexDigits = "0123456789abcdef";
@@ -12,6 +13,6 @@ function uuid() {
     return uuid;
 }
 
-vardataUtils.uuid = uuid;
+dataUtils.uuid = uuid;
 
 module.exports = dataUtils
