@@ -12,4 +12,4 @@ function uuid() {
     return uuid;
 }
 
-module.export = uuid
+module.exports = uuid
