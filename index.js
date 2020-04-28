@@ -12,4 +12,6 @@ function uuid() {
     return uuid;
 }
 
-module.exports = uuid
+vardataUtils.uuid = uuid;
+
+module.exports = dataUtils
